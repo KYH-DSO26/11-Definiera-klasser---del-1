@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="01 Klassen Bil/01 Klassen Bil.csproj" />
+  <Project Path="02 Hundapplikation (Konstruktorer)/02 Hundapplikation (Konstruktorer).csproj" />
 </Solution>
