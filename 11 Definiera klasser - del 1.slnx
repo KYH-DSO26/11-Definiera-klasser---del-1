@@ -11,4 +11,6 @@
   <Project Path="07 Rektangelapplikation (Beräknade egenskaper)/07 Rektangelapplikation (Beräknade egenskaper).csproj" />
   <Project Path="08 Kursapplikation (Enkel objekthantering)/08 Kursapplikation (Enkel objekthantering).csproj" />
   <Project Path="09 Termometerapplikation (Validering i set-accessor)/09 Termometerapplikation (Validering i set-accessor).csproj" />
+  <Project Path="10 Orderapplikation (Tillstånd via Enum)/10 Orderapplikation (Tillstånd via Enum).csproj" />
+  <Project Path="11 Tamagotchiapplikation (Inre tillståndgränser)/11 Tamagotchiapplikation (Inre tillståndgränser).csproj" />
 </Solution>
