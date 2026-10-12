@@ -7,4 +7,5 @@
   <Project Path="03 Klassen Produkt med en Metod/03 Klassen Produkt med en Metod.csproj" />
   <Project Path="04 Egenskaper för Anvandare/04 Egenskaper för Anvandare.csproj" />
   <Project Path="05 Maträtt (Enum)/05 Maträtt (Enum).csproj" />
+  <Project Path="06 Bankapplikation (bibehålla tillstånd)/06 Bankapplikation (bibehålla tillstånd).csproj" />
 </Solution>
