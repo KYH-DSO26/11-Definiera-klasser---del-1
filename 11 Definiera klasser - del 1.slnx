@@ -14,4 +14,7 @@
   <Project Path="10 Orderapplikation (Tillstånd via Enum)/10 Orderapplikation (Tillstånd via Enum).csproj" />
   <Project Path="11 Tamagotchiapplikation (Inre tillståndgränser)/11 Tamagotchiapplikation (Inre tillståndgränser).csproj" />
   <Project Path="12 Biluthyrning (Objektinteraktion)/12 Biluthyrning (Objektinteraktion).csproj" />
+  <Project Path="13 Lagerapplikation (Affärsregler i property)/13 Lagerapplikation (Affärsregler i property).csproj" />
+  <Project Path="14 RPG Karaktär (Stridssimulator)/14 RPG Karaktär (Stridssimulator).csproj" />
+  <Project Path="15 Smart Hem (Avancerad tillståndsmaskiner)/15 Smart Hem (Avancerad tillståndsmaskiner).csproj" />
 </Solution>
