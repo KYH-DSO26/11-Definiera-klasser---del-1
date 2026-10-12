@@ -4,4 +4,6 @@
   </Folder>
   <Project Path="01 Klassen Bil/01 Klassen Bil.csproj" />
   <Project Path="02 Hundapplikation (Konstruktorer)/02 Hundapplikation (Konstruktorer).csproj" />
+  <Project Path="03 Klassen Produkt med en Metod/03 Klassen Produkt med en Metod.csproj" />
+  <Project Path="04 Egenskaper för Anvandare/04 Egenskaper för Anvandare.csproj" />
 </Solution>
